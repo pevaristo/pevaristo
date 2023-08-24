@@ -1,4 +1,9 @@
-### Hi there 👋
+# Paulo Evaristo
+
+Professor @IFSP-SaoJoaodaBoaVista
+
+[![Twitter Badge](https://img.shields.io/badge/-@pauloinforma-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/pauloinforma)](https://twitter.com/pauloinforma) 
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Evaristo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-jos%C3%A9-evaristo-da-silva-799227174/)](https://www.linkedin.com/in/paulo-jos%C3%A9-evaristo-da-silva-799227174)
 
 <!--
 **pevaristo/pevaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
